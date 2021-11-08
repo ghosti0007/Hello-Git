@@ -1,7 +1,6 @@
 {
-  "name": "hello-git",
+  "name": "@ghosti0007/hello-git",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/ghosti0007/Hello-Git/issues"
   },
-  "homepage": "https://github.com/ghosti0007/Hello-Git#readme"
+  "homepage": "https://github.com/ghosti0007/Hello-Git#readme",
+  "description": ""
 }
